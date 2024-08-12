@@ -8,4 +8,4 @@
 
 - 杂学
 
-- 杂念
+- [杂念](./zatnen/zatnen.md)
